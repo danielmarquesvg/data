@@ -133,7 +133,7 @@ data_hora,cidade,bairro_favela,perfil,instituicao_educacional,assistencia_estuda
 2020-11-11 19:07:06.052,João Pessoa,,Usuário não-estudante,,,,,,Sim,Computador portátil (laptop/notebook),Não,2 semanas,Sim,Pagante,Cadastro repetido - linha 34,
 2020-11-11 19:58:45.609,João Pessoa,,Usuário estudante,IFPB,Não,,,,Sim,Computador portátil (laptop/notebook),Não,1 mês,Sim,Pagante,,
 2020-11-12 10:16:43.464,João Pessoa,,Usuário não-estudante,,,,,,Sim,Computador portátil (laptop/notebook),Não,O tempo que for preciso,Sim,Pagante,,
-2020-11-12 17:43:47.119,Camboinha ,,Usuário estudante,IFPB,Não,,,,Sim,Computador portátil (laptop/notebook),Não,1 mês,Sim,Pagante,,
+2020-11-12 17:43:47.119,Cabedelo,,Usuário estudante,IFPB,Não,,,,Sim,Computador portátil (laptop/notebook),Não,1 mês,Sim,Pagante,,
 2020-11-14 13:49:52.627,João Pessoa,Bairro Jaguaribe,Usuário estudante,Instituição pública em geral,,,Não,,Sim,Computador portátil (laptop/notebook),Não,O tempo que for preciso,Sim,Pagante,,
 2020-11-16 07:23:12.347,Cruz do Espírito Santo,Zona Rural,Usuário estudante,IFPB,Sim,Sim,,,,Computador portátil (laptop/notebook),Não,2 semanas,Sim,Gratuito,,
 2020-11-16 18:45:27.849,João Pessoa,Bairro Paratibe,Usuário estudante,IFPB,Sim,Sim,,,,Computador portátil (laptop/notebook),Não,O tempo que for preciso,Sim,Gratuito,,
